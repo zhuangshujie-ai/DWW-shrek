@@ -1,0 +1,31 @@
+body{
+    background-color: coral;
+}
+
+p{
+    color:blue;
+    font-size:20px;
+    font-weight:bold;
+}
+
+ol{
+    color:white;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+li{
+    color:aqua;
+}
+
+#cookies{
+    font-size: 30px
+}
+
+.black-bg{
+    background-color: black;
+    color:white;
+    padding:0px 32px;
+    margin: 64px;
+}
